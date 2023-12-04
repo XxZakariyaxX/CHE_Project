@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Your webpage styles go here */
+  
+  .sign {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+  }
+  
+  #signbtn {
+    background-color: #f44336; /* Red color, you can customize this */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
